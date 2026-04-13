@@ -98,6 +98,11 @@ Monday `weekly-plan` → daily workflow → Friday `weekly-review` → `status-u
 
 ## Skills by Category (110 Total)
 
+### Build Your Own (1)
+| Skill | Description |
+|-------|-------------|
+| [skill-builder](skills/skill-builder/skill.md) | Create and format new skills — use this to build your own custom skills from scratch |
+
 ### Strategy & Planning (12)
 | Skill | Description |
 |-------|-------------|
@@ -254,11 +259,6 @@ Monday `weekly-plan` → daily workflow → Friday `weekly-review` → `status-u
 | [job-description-analyzer](skills/job-description-analyzer/skill.md) | Analyze job postings for compatibility scores and application recommendations |
 | [learning-journal](skills/learning-journal/skill.md) | Extract and organize learning moments into a categorized knowledge base |
 | [learning-mode](skills/learning-mode/skill.md) | Three-level teaching mode for technical PMs |
-
-### Meta (1)
-| Skill | Description |
-|-------|-------------|
-| [skill-builder](skills/skill-builder/skill.md) | Meta skill that defines how to create and format new skills |
 
 ---
 
