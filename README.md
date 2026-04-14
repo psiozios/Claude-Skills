@@ -1,6 +1,6 @@
 # Claude Skills Collection
 
-A personal repository of 110 reusable Claude skills collected from online resources and colleagues. Organized by domain and connected through product development lifecycle workflows.
+A personal repository of 111 reusable Claude skills collected from online resources and colleagues. Organized by domain and connected through product development lifecycle workflows.
 
 ## Structure
 
@@ -21,10 +21,24 @@ These workflows chain skills together across the full product development lifecy
 ### Daily & Weekly Routines
 
 **Daily PM Workflow:**
-`daily-plan` → take meetings → `meeting-notes` → `slack-message` for follow-ups → `learning-journal`
+`daily-plan` → take meetings → `meeting-notes` → `slack-message` for follow-ups → `learning-journal` → `second-brain ingest`
 
 **Weekly PM Cycle:**
 Monday `weekly-plan` → daily workflow → Friday `weekly-review` → `status-update`
+
+### Knowledge Compounding
+
+**Build Your Brain:**
+`second-brain init` → drop sources into `raw/` → `second-brain compile` → `second-brain lint`
+
+**Daily Capture:**
+`meeting-notes` / `user-research-synthesis` / `competitor-analysis` → `second-brain ingest` → `second-brain query` for later recall
+
+**Meeting Prep:**
+`second-brain prep "<topic>"` → meeting → `meeting-notes` → `second-brain ingest` (close the loop)
+
+**Evidence-Based Decisions:**
+`second-brain query` → `decision-doc` → `second-brain ingest` (file the decision back)
 
 ### Discovery & Research
 
@@ -32,7 +46,7 @@ Monday `weekly-plan` → daily workflow → Friday `weekly-review` → `status-u
 `quick-research` → `opportunity-sizing` → `competitor-analysis` → `business-model-canvas` → `decision-doc`
 
 **Customer Deep Dive:**
-`interview-guide` → `user-interview` → `user-research-synthesis` → `voice-of-customer` → `journey-map` → `feature-request-analysis`
+`interview-guide` → `user-interview` → `user-research-synthesis` → `voice-of-customer` → `second-brain ingest` → `journey-map` → `feature-request-analysis`
 
 **Validate Before Building:**
 `micro-experiments` → `survey-builder` → `experiment-metrics` → `experiment-decision`
@@ -56,7 +70,7 @@ Monday `weekly-plan` → daily workflow → Friday `weekly-review` → `status-u
 ### Build & Ship
 
 **PRD Lifecycle:**
-`user-research-synthesis` → `impact-sizing` → `prd-draft` → `prd-review-panel` → `create-tickets` → `sprint-planning` → `launch-checklist` → `feature-results`
+`user-research-synthesis` → `impact-sizing` → `second-brain query` (pull background) → `prd-draft` → `prd-review-panel` → `create-tickets` → `sprint-planning` → `launch-checklist` → `feature-results` → `second-brain ingest`
 
 **Build with AI (for PMs who code):**
 `cto-consult` → `explore-codebase` → `execution-plan` → `code-first-draft` → `code-review` → `verify-work` → `update-docs`
@@ -70,7 +84,7 @@ Monday `weekly-plan` → daily workflow → Friday `weekly-review` → `status-u
 `content-marketing` → `social-media-amplification` → `linkedin-teaser` → `email-conversion-tester` → `lead-magnet`
 
 **Post-Launch Analysis:**
-`feature-results` → `activation-analysis` → `retention-analysis` → `root-cause-analysis` → `post-mortem`
+`feature-results` → `activation-analysis` → `retention-analysis` → `root-cause-analysis` → `post-mortem` → `second-brain ingest`
 
 **Revenue Expansion:**
 `win-loss-analysis` → `expansion-strategy` → `sales-battlecard` → `pricing-analysis`
@@ -96,12 +110,17 @@ Monday `weekly-plan` → daily workflow → Friday `weekly-review` → `status-u
 
 ---
 
-## Skills by Category (110 Total)
+## Skills by Category (111 Total)
 
 ### Build Your Own (1)
 | Skill | Description |
 |-------|-------------|
 | [skill-builder](skills/skill-builder/skill.md) | Create and format new skills — use this to build your own custom skills from scratch |
+
+### Knowledge Management (1)
+| Skill | Description |
+|-------|-------------|
+| [second-brain](skills/second-brain/skill.md) | Build and maintain a compounding cross-linked markdown wiki with citations, contradiction-flagging, and 8 operational modes (init/ingest/query/compile/explore/lint/prep/status) |
 
 ### Strategy & Planning (12)
 | Skill | Description |

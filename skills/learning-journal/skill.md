@@ -59,3 +59,6 @@ Tag each entry with:
 - Include the context, not just the fact (context makes it retrievable)
 - Review regularly — unreviewed journals are just diaries
 - Quality over quantity — one genuine insight beats ten observations
+
+## Related Skills
+- **[second-brain](../second-brain/skill.md)** — The richer alternative when you want cross-linked, cited, queryable knowledge that compounds. `learning-journal` is chronological capture; `second-brain` is an interlinked wiki you can query. Use `learning-journal` for quick end-of-session capture; use `second-brain` when you want those insights stitched into a growing knowledge base. A learning-journal entry can become a source for `/second-brain ingest` if it grows into something worth linking.
