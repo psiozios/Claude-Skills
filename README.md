@@ -1,6 +1,6 @@
 # Claude Skills Collection
 
-A personal repository of 111 reusable Claude skills collected from online resources and colleagues. Organized by domain and connected through product development lifecycle workflows.
+A personal repository of 118 reusable Claude skills collected from online resources and colleagues. Organized by domain and connected through product development lifecycle workflows.
 
 ## Structure
 
@@ -64,6 +64,12 @@ Monday `weekly-plan` → daily workflow → Friday `weekly-review` → `status-u
 **Idea to Prototype:**
 `self-interview` → `napkin-sketch` → `frontend-design` → `prototype` → `prototype-feedback` → `implement-design`
 
+**Design with Aesthetic Direction:**
+`frontend-design` → choose aesthetic: `taste-ui-framework` / `soft-premium-ui` / `minimalist-editorial-ui` / `brutalist-swiss-ui` / `cinematic-motion-ui` → `prototype` → `implement-design`
+
+**Upgrade Existing UI:**
+`ui-redesign-audit` → apply aesthetic skill → `implement-design` → `creative-qa-check`
+
 **AI-Assisted Prototyping:**
 `prd-lite` → `generate-ai-prototype` → `prototype-feedback` → `frontend-design` → `implement-design`
 
@@ -110,7 +116,7 @@ Monday `weekly-plan` → daily workflow → Friday `weekly-review` → `status-u
 
 ---
 
-## Skills by Category (111 Total)
+## Skills by Category (118 Total)
 
 ### Build Your Own (1)
 | Skill | Description |
@@ -175,17 +181,23 @@ Monday `weekly-plan` → daily workflow → Friday `weekly-review` → `status-u
 | [ralph-wiggum](skills/ralph-wiggum/skill.md) | Devil's advocate PRD/document reviewer with humor and sharp critique |
 | [micro-experiments](skills/micro-experiments/skill.md) | Design low-stakes exploration experiments with hypotheses and time-boxes |
 
-### Design & Prototyping (8)
+### Design & Prototyping (14)
 | Skill | Description |
 |-------|-------------|
+| [brutalist-swiss-ui](skills/brutalist-swiss-ui/skill.md) | Industrial Swiss typography with military/aerospace data density and austere visual treatment |
+| [cinematic-motion-ui](skills/cinematic-motion-ui/skill.md) | Motion-first UI with scroll-driven animations, AIDA narrative structure, and cinematic spacing |
 | [explainer-graphic](skills/explainer-graphic/skill.md) | Convert complex concepts into visual HTML explainers |
 | [frontend-design](skills/frontend-design/skill.md) | Production-grade UI designs emphasizing typography and spatial composition |
 | [generate-ai-prototype](skills/generate-ai-prototype/skill.md) | Generate v0.dev, Lovable, or Bolt.new prompts for AI-powered prototyping |
 | [implement-design](skills/implement-design/skill.md) | Translate design files into production-ready code with pixel-perfect accuracy |
+| [minimalist-editorial-ui](skills/minimalist-editorial-ui/skill.md) | Notion-style editorial interfaces with warm backgrounds, sparse color, and document layouts |
 | [napkin-sketch](skills/napkin-sketch/skill.md) | ASCII wireframes + browser capture for design matching |
 | [prototype](skills/prototype/skill.md) | Advanced prototyping (Artifacts/Figma/Lovable/v0/Bolt) |
 | [prototype-feedback](skills/prototype-feedback/skill.md) | Build -> review -> iterate prototype workflow |
 | [slides-presentation](skills/slides-presentation/skill.md) | Generate complete HTML presentations with animations and speaker notes |
+| [soft-premium-ui](skills/soft-premium-ui/skill.md) | Premium agency aesthetics with texture archetypes, layered depth, and generous whitespace |
+| [taste-ui-framework](skills/taste-ui-framework/skill.md) | Calibrate AI-generated UI — three design dials, bias correction, and banned AI anti-patterns |
+| [ui-redesign-audit](skills/ui-redesign-audit/skill.md) | Three-phase Scan/Diagnose/Fix for upgrading existing UIs without breaking functionality |
 
 ### Development & Engineering (14)
 | Skill | Description |

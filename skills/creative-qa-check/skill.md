@@ -50,6 +50,13 @@ Audits content drafts for voice authenticity, structural coherence, scanability,
 - Color is not the only way information is conveyed
 - Heading structure supports screen readers
 
+**6. Visual Design (if auditing UI)**
+- Font choice: is it Inter/Roboto or something distinctive?
+- Color: any purple/blue AI gradients or oversaturated accents?
+- Layout: symmetric 3-column grids, centered everything?
+- Interactions: hover/focus states present on all clickable elements?
+- See `taste-ui-framework` for the full anti-pattern checklist
+
 ### Output Format
 Produce a prioritized report:
 - **Critical** (must fix): Issues that break comprehension or accessibility
@@ -61,3 +68,8 @@ Produce a prioritized report:
 - Always explain why something matters, not just what's wrong
 - Limit to 10 recommendations max to avoid overwhelm
 - Positive feedback matters — note what's working well too
+
+## Related Skills
+
+- `taste-ui-framework` — detailed visual anti-pattern checklist for UI-specific audits
+- `ui-redesign-audit` — use when the audit results call for visual design fixes

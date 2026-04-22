@@ -594,6 +594,7 @@ Before presenting the prototype or prompt, verify:
 - `/prd-draft` - Clear requirements
 - `/napkin-sketch` - Quick wireframe first
 - `/generate-ai-prototype` - AI behavior prompts
+- `/taste-ui-framework`, `/soft-premium-ui`, `/minimalist-editorial-ui`, `/brutalist-swiss-ui`, `/cinematic-motion-ui` - Choose an aesthetic direction before prototyping for distinctive results
 
 **After this:**
 - `/prototype-feedback` - Structured review loop

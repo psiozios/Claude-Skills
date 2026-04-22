@@ -501,3 +501,9 @@ If any check fails, fix it before delivering. The prompt should work on the firs
 ---
 
 Remember: A 5-minute prototype can save 2 weeks of engineering waste. Invest in prototyping before building.
+
+## Related Skills
+
+- `taste-ui-framework` — run before generating prompts to establish aesthetic constraints that prevent generic AI output
+- `soft-premium-ui` / `minimalist-editorial-ui` / `brutalist-swiss-ui` / `cinematic-motion-ui` — specific aesthetic directions to include in your prototype prompts
+- `prototype` — the broader prototyping skill; this skill generates prompts for AI-specific tools within that workflow

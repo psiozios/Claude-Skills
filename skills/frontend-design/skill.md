@@ -65,3 +65,11 @@ Build core components:
 - Every spacing value should come from the scale (no magic numbers)
 - Design for the smallest screen first, then scale up
 - Accessibility is not optional — WCAG AA minimum on all text
+
+## Related Skills
+
+- `taste-ui-framework` — apply as a quality filter to eliminate the AI-generated look from your output
+- `soft-premium-ui` / `minimalist-editorial-ui` / `brutalist-swiss-ui` / `cinematic-motion-ui` — specific aesthetic directions to guide Step 2 (Design Direction)
+- `ui-redesign-audit` — when upgrading an existing interface rather than designing from scratch
+- `implement-design` — hand off your design for production-quality code
+- `brand-design-system` — extract tokens from your design into a reusable system

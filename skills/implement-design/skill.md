@@ -11,8 +11,9 @@ Translates design files (Figma screenshots, mockups, wireframes) into production
 ## When to Use This Skill
 - Converting approved designs into code
 - Building components from a design system
-- Implementing a redesign
+- Implementing a redesign from a completed design spec
 - Creating responsive layouts from static mockups
+- **Note:** If you're upgrading an existing site's visuals (not implementing a new design), use `ui-redesign-audit` instead
 
 ## Process
 
@@ -58,3 +59,9 @@ Deliver:
 - Extract design tokens (colors, spacing, fonts) into variables
 - Document any decisions where the design was ambiguous
 - Mobile-first approach — start with the smallest screen and scale up
+
+## Related Skills
+
+- `taste-ui-framework` — run as a quality check on the implemented output to catch AI-generated patterns
+- `ui-redesign-audit` — use instead of this skill when upgrading existing visuals rather than implementing from a fresh design
+- `frontend-design` — use upstream to create the design this skill implements
